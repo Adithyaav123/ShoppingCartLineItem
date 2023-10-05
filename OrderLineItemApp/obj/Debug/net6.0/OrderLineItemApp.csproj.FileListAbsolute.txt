@@ -1,0 +1,15 @@
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\bin\Debug\net6.0\OrderLineItemApp.exe
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\bin\Debug\net6.0\OrderLineItemApp.deps.json
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\bin\Debug\net6.0\OrderLineItemApp.runtimeconfig.json
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\bin\Debug\net6.0\OrderLineItemApp.dll
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\bin\Debug\net6.0\OrderLineItemApp.pdb
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.csproj.AssemblyReference.cache
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.AssemblyInfoInputs.cache
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.AssemblyInfo.cs
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.csproj.CoreCompileInputs.cache
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.dll
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\refint\OrderLineItemApp.dll
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.pdb
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\OrderLineItemApp.genruntimeconfig.cache
+C:\Users\Adithya AV\source\repos\OrderLineItemApp\obj\Debug\net6.0\ref\OrderLineItemApp.dll
